@@ -1,0 +1,296 @@
+body {
+    width: 100%;
+    margin: auto;
+    box-sizing: border-box;
+    /*    border: solid 3px;*/
+}
+
+/*ФОН____________________________________*/
+.bg_darkseagreen {
+    background-color: darkseagreen;
+}
+
+.bg_sandybrown {
+    background-color: sandybrown;
+}
+
+.bg_khaki {
+    background-color: khaki;
+}
+
+.bg_cornflowerblue {
+    background-color: cornflowerblue;
+}
+
+.bg_blanchedalmond {
+    background-color: blanchedalmond;
+}
+
+.bg_lightskyblue {
+    background-color: lightskyblue;
+}
+
+.bg_salmon {
+    background-color: salmon;
+}
+
+/*________________________________________________-*/
+
+/*центр текст*/
+.tac {
+    text-align: center;
+}
+
+/*________________________*/
+
+/*розміщення___________________-*/
+
+.ma {
+    margin: auto;
+
+}
+
+.mab_0 {
+
+    margin-bottom: 0;
+}
+
+
+
+
+.mab_10p {
+
+    margin-bottom: 10%;
+}
+
+
+
+.mab_3p {
+
+    margin-bottom: 3%;
+}
+
+.mab_1p {
+
+    margin-bottom: 1%;
+}
+
+
+.mat_10p {
+
+    margin-top: 10%;
+}
+
+.mat_20p {
+
+    margin-top: 20%;
+}
+
+.mat_10p {
+
+    margin-top: 40%;
+}
+
+.mat_5 {
+
+    margin-top: 14px;
+}
+
+.mat_3p {
+
+    margin-top: 3%;
+}
+
+.ma_l_r_10p {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ma_l_r_0 {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+.ma_r_0 {
+    margin-right: 0;
+}
+
+.ma_l_0 {
+    margin-left: 0;
+}
+
+.ma_r_5 {
+    margin-right: 5%;
+}
+
+.ma_l_5 {
+    margin-left: 5%;
+}
+
+
+.ma_r_10 {
+    margin-right: 10%;
+}
+
+.ma_l_10 {
+    margin-left: 10%;
+}
+
+
+
+.ma_l_33 {
+    margin-left: 33.3%;
+}
+
+
+.mar_10px {
+    margin-top: 10px;
+}
+
+.mar_30px {
+    margin-top: 30px;
+}
+
+.mar_50px {
+    margin-top: 50px;
+}
+
+
+
+
+
+
+/*Розміри .---------------------------------*/
+
+/*H_________________________________________*/
+.h_40 {
+    height: 40px;
+}
+
+.h_60 {
+    height: 60px;
+}
+
+.h_80 {
+    height: 80px;
+}
+
+
+.h_180 {
+    height: 180px;
+}
+
+/*%___________________________________________*/
+
+
+.h_10p {
+    height: 10%;
+}
+
+
+.h_20p {
+    height: 20%;
+}
+
+
+
+.h_40p {
+    height: 40%;
+}
+
+.h_60p {
+    height: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*W_________________________________________________*/
+
+
+
+
+
+
+
+
+
+/*_______________%___________________________________*/
+
+.wh_33 {
+    width: 33.333%;
+}
+
+.wh_80 {
+    width: 80%;
+}
+
+.wh_70 {
+    width: 70%;
+}
+
+
+
+
+
+
+
+
+
+/*Контейтери____________________*/
+.container_1 {
+    display: flex;
+}
+
+/*Коробки_______________________*/
+
+.box_1 {
+    flex: 1
+}
+
+.box_2 {
+    flex: 2
+}
+
+.box_3 {
+    flex: 3
+}
+
+.box_4 {
+    flex: 4
+}
+
+/*_______________________________________*/
+/*Головні блоки іерарwхія*/
+.order_1 {
+    order: 1;
+}
+
+.order_2 {
+    order: 2;
+}
+
+.order_3 {
+    order: 3;
+}
+
+.order_4 {
+    order: 4;
+}
+
+.order_5 {
+    order: 5;
+}
+
+/*_____________________________*/
